@@ -1,0 +1,19 @@
+footer{
+	position: fixed;
+	bottom: 0px;
+	width: 100%;
+	color: #aaa;
+	background-color: #101010; 
+	text-align: center;
+	padding: 7px; 
+}
+
+.align{
+	margin-top: 80px;
+	margin-bottom: 80px;
+}
+
+#login h2{
+	margin: 0px;
+	padding: 15px;
+}
