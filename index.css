@@ -1,0 +1,38 @@
+#banner_image{
+	padding-top: 75px;
+	padding-bottom: 50px;
+	text-align: center;
+	color: #f8f8f8;
+	background-image: url(../images/intro-bg_1.jpg);
+	background-repeat:  no-repeat;
+	background-position:  center center;
+	background-size: cover;
+}
+#banner_content{
+	margin-top: 10%;
+	margin-bottom: 12%;
+	padding-top: 6%;
+	padding-bottom: 6%;
+	background-color: rgba(0,0,0,0.7);
+	max-width: 550px;
+}
+
+.margin{
+	margin-top: 30px;
+	margin-bottom: 30px;
+	margin-left: 5px;
+	margin-right: 5px;
+	box-sizing: border-box;
+}
+#gallery a{
+	text-decoration: none;
+}
+footer{
+	position: fixed;
+	bottom: 0px;
+	width: 100%;
+	color: #aaa;
+	background-color: #101010; 
+	text-align: center;
+	padding: 7px; 
+}
